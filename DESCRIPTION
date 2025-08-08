@@ -1,0 +1,18 @@
+Package: egdata.fastbioclim
+Title: Example Data for the 'fastbioclim' Package
+Version: 0.1.0
+Authors@R: c(person("Gonzalo E.", "Pinilla-Buitrago", 
+                    email = "gepinillab@gmail.com", 
+                    role = c("aut", "cre"),
+                    comment = c(ORCID = "0000-0002-0065-945X")),
+             person(given = "Luis", family = "Osorio-Olvera", 
+                    email = "luismurao@gmail.com", 
+                    role = c("aut"),
+                    comment = c(ORCID = "0000-0003-0701-5398")))
+Maintainer: Gonzalo E. Pinilla-Buitrago <gepinillab@gmail.com>
+Description: Contains real raster data subsets used in examples, vignettes, and tests 
+    for the 'fastbioclim' package. This data is for demonstration purposes only. 
+    Separating it keeps the main 'fastbioclim' package lightweight.
+License: CC-BY-4.0
+Encoding: UTF-8
+RoxygenNote: 7.3.1
